@@ -1,0 +1,47 @@
+
+.container-1 {
+  position: relative;
+  width: 100%;
+  top: 150px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.container-2 {
+  position: relative;
+  width: 100%;
+  top: 260px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.text-homepage {
+  font-size: 4vw;
+  font-weight: bold;
+/*  font-family: myfont; */
+  color: white;
+  position: absolute;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+
+}
+.text-homepage-2 {
+  font-size: 2vw;
+  font-weight: bold;
+/*  font-family: myfont; */
+  color: white;
+  position: absolute;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+
+.icons-homepage {
+  font-size: 4vw;
+  font-weight: bold;
+/*  font-family: myfont; */
+  color: white;
+  position: absolute;
+}/* css styles */
