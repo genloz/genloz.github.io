@@ -23,7 +23,7 @@
 /*  font-family: myfont; */
   color: white;
   position: absolute;
-  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: black;
 
 }
